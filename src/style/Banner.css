@@ -1,0 +1,16 @@
+.jh-banner{
+    color: black;
+    text-align: center;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+}
+.jh-title{
+    padding-left: 32px;
+}
+.jh-logo{
+    height:35px;
+    width:35px;
+}

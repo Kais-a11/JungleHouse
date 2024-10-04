@@ -1,0 +1,12 @@
+.jh-shoppingList{
+    width: 100%;
+
+}
+.jh-plant-list{
+
+    padding:32px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
