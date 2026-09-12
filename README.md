@@ -1,71 +1,136 @@
-# Getting Started with Create React App
+# 🌿 JungleHouse
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> 🪴 **JungleHouse** est une application web e-commerce dédiée à la vente de plantes.
+> Elle offre une expérience utilisateur moderne, interactive et dynamique grâce à **React.js**.
 
-## Available Scripts
+## 📋 Description
 
-In the project directory, you can run:
+JungleHouse est un site e-commerce permettant aux utilisateurs de découvrir différentes plantes et de consulter leurs informations.
 
-### `npm start`
+L'objectif du projet est de mettre en pratique le développement d'une interface web moderne avec **React.js**, en travaillant notamment sur les composants réutilisables, la gestion des données et les interactions utilisateur.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Fonctionnalités
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* 🌱 Affichage des plantes disponibles
+* 🔎 Consultation des produits
+* 🛒 Gestion du panier
+* ➕ Ajout et suppression de produits
+* 💰 Calcul du prix total
+* ⚡ Interface interactive et dynamique
+* 📱 Interface adaptée aux différents écrans
 
-### `npm test`
+## 🛠️ Technologies utilisées
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Frontend
 
-### `npm run build`
+* **React.js**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Outils
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* **Git**
+* **GitHub**
+* **npm**
+* **Create React App**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📂 Structure du projet
 
-### `npm run eject`
+```text
+JungleHouse/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── data/
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+│
+├── package.json
+├── package-lock.json
+└── README.md
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⚙️ Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clonez le repository :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/Kais-a11/JungleHouse.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Accédez au projet :
 
-## Learn More
+```bash
+cd JungleHouse
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Installez les dépendances :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+Lancez l'application :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
 
-### Analyzing the Bundle Size
+L'application sera disponible sur :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```text
+http://localhost:3000
+```
 
-### Making a Progressive Web App
+## 🖥️ Aperçu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Ajoutez ici quelques captures d'écran de votre application.
 
-### Advanced Configuration
+```text
+📸 Screenshot 1
+📸 Screenshot 2
+📸 Screenshot 3
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🎯 Objectifs du projet
 
-### Deployment
+Ce projet m'a permis de renforcer mes compétences dans :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* La création de composants React réutilisables
+* La gestion des états avec React
+* La gestion des interactions utilisateur
+* La conception d'interfaces web dynamiques
+* L'organisation d'un projet frontend
+* L'utilisation de Git et GitHub
 
-### `npm run build` fails to minify
+## 📚 Compétences développées
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# jungleHouse
+```text
+React.js
+JavaScript
+HTML5
+CSS3
+Responsive Design
+Git
+GitHub
+Component-based Development
+State Management
+```
+
+## 👨‍💻 Auteur
+
+**Kais Barhoumi**
+
+Ingénieur en Informatique — Développement Web et Mobile
+
+* GitHub: [Kais-a11](https://github.com/Kais-a11)
+* LinkedIn: [Barhoumi Kais](https://www.linkedin.com/in/barhoumi-kais-474607211/)
+
+---
+
+⭐ Si vous trouvez ce projet intéressant, n'hésitez pas à laisser une étoile au repository.
